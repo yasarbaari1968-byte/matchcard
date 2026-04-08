@@ -278,7 +278,7 @@ button {
 
 .league {
   position: absolute;
-  left: 125px;
+  left: 120px;
   top: 9px;
   display: flex;
   align-items: center;
@@ -355,7 +355,7 @@ button {
 .team-name.is-marquee span {
   min-width: 100%;
   padding-left: 100%;
-  animation: team-name-marquee 5s linear infinite;
+  animation: team-name-marquee 8s linear infinite;
 }
 
 .score-area {
